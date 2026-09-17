@@ -26,7 +26,6 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.listycity3.ui.theme.ListyCity3Theme
-import kotlinx.coroutines.selects.select
 
 @Composable
 fun CityListScreen(
@@ -189,7 +188,7 @@ fun CityListScreenPreview() {
                 City("Calgary", "AB")
             ),
             onAddCity = {},
-            onUpdateCity = { oldCity, updatedCity -> }
+            onUpdateCity = { _, _ -> }
         )
     }
 }
