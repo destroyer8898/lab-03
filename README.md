@@ -12,7 +12,8 @@ N/A
 
 ## Verbal Collaboration
 
+I did not collaborate verbally with anyone.
+
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| `N/A`	       | `N/A`     |
